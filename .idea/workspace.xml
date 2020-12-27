@@ -2,44 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5505426-6a45-46d5-81f6-b25b4129dcb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ie/PIE.htc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ie/html5shiv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ie/images/footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ie/images/footer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ie/v8.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ie/v9.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/images/bg_photo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/images/overlay-pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/images/overlay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/images/samad_talukder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-mobile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-mobilep.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-normal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-noscript.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-wide.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/AjaxLoader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/color-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/materialize.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/materialize.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.theme.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/me.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/me.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/skel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/_vars.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/ie/v8.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/ie/v9.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style-mobile.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style-mobilep.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style-normal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style-noscript.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style-wide.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608791886585</updated>
       <workItem from="1608791893513" duration="11058000" />
+      <workItem from="1609049153556" duration="12158000" />
     </task>
     <servers />
   </component>
